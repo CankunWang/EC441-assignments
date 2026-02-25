@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week1/Problem.md",
+                "file": "Week2/Problem.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e92e335b618e2b94",
+  "active": "4902f445f7d06092",
   "lastOpenFiles": [
+    "Week1/Problem.md",
+    "Week2/Problem.md",
     "Week2",
     "README.md",
-    "Week1/Problem.md",
     "Week1"
   ]
 }
