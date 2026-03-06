@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week2/Problem.md",
+                "file": "Week3/Problem.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,8 +196,10 @@
   },
   "active": "4902f445f7d06092",
   "lastOpenFiles": [
-    "Week1/Problem.md",
     "Week2/Problem.md",
+    "Week3/Problem.md",
+    "Week3",
+    "Week1/Problem.md",
     "Week2",
     "README.md",
     "Week1"
