@@ -1,0 +1,26 @@
+
+Tracing route to google.com [142.251.41.14]
+over a maximum of 20 hops:
+
+  1    17 ms     5 ms     5 ms  10.239.0.1 
+  2     2 ms     2 ms     2 ms  128.197.254.132 
+  3    26 ms    16 ms     *     128.197.254.118 
+  4    21 ms    14 ms    12 ms  18.2.128.201 
+  5    24 ms    15 ms    22 ms  198.71.47.57 
+  6    18 ms    25 ms    38 ms  163.253.1.44 
+  7    37 ms    31 ms    17 ms  163.253.1.116 
+  8    29 ms    18 ms    13 ms  163.253.1.133 
+  9    14 ms    18 ms    14 ms  72.14.209.106 
+ 10    16 ms    25 ms    18 ms  192.178.248.17 
+ 11    17 ms    22 ms    14 ms  192.178.248.40 
+ 12    15 ms    14 ms    17 ms  72.14.233.183 
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19    76 ms    74 ms    77 ms  108.170.234.39 
+ 20    78 ms    79 ms    71 ms  64.233.175.71 
+
+Trace complete.

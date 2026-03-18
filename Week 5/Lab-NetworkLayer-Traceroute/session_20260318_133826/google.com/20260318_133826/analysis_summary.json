@@ -1,0 +1,398 @@
+{
+  "target": "google.com",
+  "destination_ip_from_trace_header": "142.251.41.14",
+  "run_count": 3,
+  "avg_hops_per_run": 20,
+  "reachable_runs_detected": 0,
+  "total_detected_prefix_transitions": 27,
+  "total_private_hops": 3,
+  "overall_avg_rtt_ms": 27.194444444444443,
+  "overall_min_rtt_ms": 2.0,
+  "overall_max_rtt_ms": 106.0,
+  "stability": {
+    "run_count": 3,
+    "stable_hops": 20,
+    "variable_hops": 0,
+    "per_hop_stability": [
+      {
+        "hop": 1,
+        "observed": [
+          "10.239.0.1",
+          "10.239.0.1",
+          "10.239.0.1"
+        ],
+        "majority": "10.239.0.1",
+        "unique_non_timeout_ips": [
+          "10.239.0.1"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 2,
+        "observed": [
+          "128.197.254.132",
+          "128.197.254.132",
+          "128.197.254.132"
+        ],
+        "majority": "128.197.254.132",
+        "unique_non_timeout_ips": [
+          "128.197.254.132"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 3,
+        "observed": [
+          "128.197.254.118",
+          "128.197.254.118",
+          "128.197.254.118"
+        ],
+        "majority": "128.197.254.118",
+        "unique_non_timeout_ips": [
+          "128.197.254.118"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 4,
+        "observed": [
+          "18.2.128.201",
+          "18.2.128.201",
+          "18.2.128.201"
+        ],
+        "majority": "18.2.128.201",
+        "unique_non_timeout_ips": [
+          "18.2.128.201"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 5,
+        "observed": [
+          "198.71.47.57",
+          "198.71.47.57",
+          "198.71.47.57"
+        ],
+        "majority": "198.71.47.57",
+        "unique_non_timeout_ips": [
+          "198.71.47.57"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 6,
+        "observed": [
+          "163.253.1.44",
+          "163.253.1.44",
+          "163.253.1.44"
+        ],
+        "majority": "163.253.1.44",
+        "unique_non_timeout_ips": [
+          "163.253.1.44"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 7,
+        "observed": [
+          "163.253.1.116",
+          "163.253.1.116",
+          "163.253.1.116"
+        ],
+        "majority": "163.253.1.116",
+        "unique_non_timeout_ips": [
+          "163.253.1.116"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 8,
+        "observed": [
+          "163.253.1.133",
+          "163.253.1.133",
+          "163.253.1.133"
+        ],
+        "majority": "163.253.1.133",
+        "unique_non_timeout_ips": [
+          "163.253.1.133"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 9,
+        "observed": [
+          "72.14.209.106",
+          "72.14.209.106",
+          "72.14.209.106"
+        ],
+        "majority": "72.14.209.106",
+        "unique_non_timeout_ips": [
+          "72.14.209.106"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 10,
+        "observed": [
+          "192.178.248.17",
+          "192.178.248.17",
+          "192.178.248.17"
+        ],
+        "majority": "192.178.248.17",
+        "unique_non_timeout_ips": [
+          "192.178.248.17"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 11,
+        "observed": [
+          "192.178.248.40",
+          "192.178.248.40",
+          "192.178.248.40"
+        ],
+        "majority": "192.178.248.40",
+        "unique_non_timeout_ips": [
+          "192.178.248.40"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 12,
+        "observed": [
+          "72.14.233.183",
+          "72.14.233.183",
+          "72.14.233.183"
+        ],
+        "majority": "72.14.233.183",
+        "unique_non_timeout_ips": [
+          "72.14.233.183"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 13,
+        "observed": [
+          "*",
+          "*",
+          "*"
+        ],
+        "majority": "*",
+        "unique_non_timeout_ips": [],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 14,
+        "observed": [
+          "*",
+          "*",
+          "*"
+        ],
+        "majority": "*",
+        "unique_non_timeout_ips": [],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 15,
+        "observed": [
+          "*",
+          "*",
+          "*"
+        ],
+        "majority": "*",
+        "unique_non_timeout_ips": [],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 16,
+        "observed": [
+          "*",
+          "*",
+          "*"
+        ],
+        "majority": "*",
+        "unique_non_timeout_ips": [],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 17,
+        "observed": [
+          "*",
+          "*",
+          "*"
+        ],
+        "majority": "*",
+        "unique_non_timeout_ips": [],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 18,
+        "observed": [
+          "*",
+          "*",
+          "*"
+        ],
+        "majority": "*",
+        "unique_non_timeout_ips": [],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 19,
+        "observed": [
+          "108.170.234.39",
+          "108.170.234.39",
+          "108.170.234.39"
+        ],
+        "majority": "108.170.234.39",
+        "unique_non_timeout_ips": [
+          "108.170.234.39"
+        ],
+        "stable_across_runs": true
+      },
+      {
+        "hop": 20,
+        "observed": [
+          "64.233.175.71",
+          "64.233.175.71",
+          "64.233.175.71"
+        ],
+        "majority": "64.233.175.71",
+        "unique_non_timeout_ips": [
+          "64.233.175.71"
+        ],
+        "stable_across_runs": true
+      }
+    ],
+    "path_signatures": [
+      [
+        "10.239.0.1",
+        "128.197.254.132",
+        "128.197.254.118",
+        "18.2.128.201",
+        "198.71.47.57",
+        "163.253.1.44",
+        "163.253.1.116",
+        "163.253.1.133",
+        "72.14.209.106",
+        "192.178.248.17",
+        "192.178.248.40",
+        "72.14.233.183",
+        "*",
+        "*",
+        "*",
+        "*",
+        "*",
+        "*",
+        "108.170.234.39",
+        "64.233.175.71"
+      ],
+      [
+        "10.239.0.1",
+        "128.197.254.132",
+        "128.197.254.118",
+        "18.2.128.201",
+        "198.71.47.57",
+        "163.253.1.44",
+        "163.253.1.116",
+        "163.253.1.133",
+        "72.14.209.106",
+        "192.178.248.17",
+        "192.178.248.40",
+        "72.14.233.183",
+        "*",
+        "*",
+        "*",
+        "*",
+        "*",
+        "*",
+        "108.170.234.39",
+        "64.233.175.71"
+      ],
+      [
+        "10.239.0.1",
+        "128.197.254.132",
+        "128.197.254.118",
+        "18.2.128.201",
+        "198.71.47.57",
+        "163.253.1.44",
+        "163.253.1.116",
+        "163.253.1.133",
+        "72.14.209.106",
+        "192.178.248.17",
+        "192.178.248.40",
+        "72.14.233.183",
+        "*",
+        "*",
+        "*",
+        "*",
+        "*",
+        "*",
+        "108.170.234.39",
+        "64.233.175.71"
+      ]
+    ]
+  },
+  "errors": [],
+  "metadata": {
+    "host": "CHINAMI-09728DI",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python_version": "3.12.7",
+    "created_at": "2026-03-18T13:39:35",
+    "parameters": {
+      "runs": 3,
+      "max_hops": 20,
+      "timeout_ms": 800,
+      "pause_sec": 0.5
+    },
+    "run_metadata": [
+      {
+        "run_index": 1,
+        "started_at": "2026-03-18T13:38:26",
+        "command": [
+          "tracert",
+          "-d",
+          "-h",
+          "20",
+          "-w",
+          "800",
+          "google.com"
+        ],
+        "return_code": 0,
+        "hop_count": 20,
+        "resolved_destination_ip": "142.251.41.14"
+      },
+      {
+        "run_index": 2,
+        "started_at": "2026-03-18T13:38:49",
+        "command": [
+          "tracert",
+          "-d",
+          "-h",
+          "20",
+          "-w",
+          "800",
+          "google.com"
+        ],
+        "return_code": 0,
+        "hop_count": 20,
+        "resolved_destination_ip": "142.251.41.14"
+      },
+      {
+        "run_index": 3,
+        "started_at": "2026-03-18T13:39:13",
+        "command": [
+          "tracert",
+          "-d",
+          "-h",
+          "20",
+          "-w",
+          "800",
+          "google.com"
+        ],
+        "return_code": 0,
+        "hop_count": 20,
+        "resolved_destination_ip": "142.251.41.14"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+hop,ip,rtts_ms,avg_rtt_ms,min_rtt_ms,max_rtt_ms,is_private,cidr_24,cidr_16,subnet_boundary_from_prev,boundary_reason,latency_jump_from_prev_ms
+1,10.239.0.1,"5.0,3.0,3.0",3.67,3.00,5.00,True,10.239.0.0/24,10.239.0.0/16,False,,
+2,128.197.255.134,"9.0,18.0,4.0",10.33,4.00,18.00,False,128.197.255.0/24,128.197.0.0/16,True,major_prefix_change_/16,6.67
+3,128.197.254.114,"10.0,11.0,8.0",9.67,8.00,11.00,False,128.197.254.0/24,128.197.0.0/16,True,subnet_change_/24,-0.67
+4,18.2.128.201,"4.0,3.0,4.0",3.67,3.00,4.00,False,18.2.128.0/24,18.2.0.0/16,True,major_prefix_change_/16,-6.00
+5,,,,,,,,,False,,
+6,172.68.52.15,"3.0,5.0,4.0",4.00,3.00,5.00,False,172.68.52.0/24,172.68.0.0/16,True,major_prefix_change_/16,0.33
+7,1.1.1.1,"4.0,4.0,3.0",3.67,3.00,4.00,False,1.1.1.0/24,1.1.0.0/16,True,major_prefix_change_/16,-0.33
