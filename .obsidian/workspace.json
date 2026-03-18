@@ -11,14 +11,14 @@
             "id": "4902f445f7d06092",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: README  (Working Tree)"
             }
           }
         ]
@@ -196,16 +196,25 @@
   },
   "active": "4902f445f7d06092",
   "lastOpenFiles": [
+    "README.md",
+    "Week 5/Lab-NetworkLayer-Traceroute/session_20260318_134756/1.1.1.1/20260318_134756/analysis_summary.json",
+    "Week 5/Lab-NetworkLayer-Traceroute/session_20260318_134756/1.1.1.1/20260318_134756/hops_run1.csv",
+    "Week 5/Lab-NetworkLayer-Traceroute/session_20260318_134756/1.1.1.1/20260318_134756/raw_traceroute_run1.txt",
+    "Week 5/Lab-NetworkLayer-Traceroute/session_20260318_134756/1.1.1.1/20260318_134756",
+    "Week 5/Lab-NetworkLayer-Traceroute/session_20260318_134756/1.1.1.1",
+    "Week 5/Lab-NetworkLayer-Traceroute/session_20260318_134756",
+    "Week 5/Lab-NetworkLayer-Traceroute/__pycache__/trace_tools.cpython-312.pyc",
+    "Week 5/Lab-NetworkLayer-Traceroute/__pycache__/io_tools.cpython-312.pyc",
+    "Week 5/Lab-NetworkLayer-Traceroute/__pycache__/analysis_tools.cpython-312.pyc",
+    "Week 5/Lab-NetworkLayer-Traceroute/__pycache__",
+    "Week 5/Lab-NetworkLayer-Traceroute/Week5_Lab.md",
+    "Week 5/Lab-NetworkLayer-Traceroute/session_20260318_132809/1.1.1.1/20260318_132915/report.md",
+    "Week 5/Lab-NetworkLayer-Traceroute/session_20260318_132809/google.com/20260318_132809/report.md",
+    "EC441-assignment/google.com/20260318_132021/report.md",
     "Week 5/Problem.md",
     "Week 4/Problem.md",
-    "Week 5",
     "Week3/Problem.md",
     "Week2/Problem.md",
-    "Week1/Problem.md",
-    "Week 4",
-    "README.md",
-    "Week3",
-    "Week2",
-    "Week1"
+    "Week1/Problem.md"
   ]
 }
